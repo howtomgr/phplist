@@ -1,0 +1,67 @@
+{
+  "category": "mailing-lists",
+  "created_date": "2025-09-15T22:48:58.677625",
+  "default_ports": [
+    80,
+    443,
+    2048
+  ],
+  "dependencies": [
+    "php",
+    "mysql",
+    "php-mysql"
+  ],
+  "description": "phpList is a free and open-source Email Marketing. Open source newsletter and email marketing",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/mailing-lists/phplist",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/mailing-lists/phplist",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:58.677648",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "phplist",
+  "repository_url": "https://github.com/howtomgr/phplist",
+  "spec_version": "2.0",
+  "subcategory": "mailing-lists",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "mailing-lists",
+    "containerization",
+    "orchestration",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection",
+    "communication"
+  ],
+  "title": "phpList Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/mailing-lists/phplist"
+}
